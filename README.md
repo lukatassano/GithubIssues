@@ -1,3 +1,8 @@
+<p>
+  <img width="100%" src="./assets/screenshotIssues.png" >
+  <img width="100%" src="./assets/screenshotIssues2.png" >
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
